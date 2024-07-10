@@ -22,6 +22,8 @@ to reinstall the packages (dependencies) in the original environment.
 python -m pip install flask
 ```
 
+You can use the command ```pip freeze``` to check your installed flask's version.
+
 **Step5**: In the Integrated Terminal, run the app by entering 
 ```
 python -m flask run
