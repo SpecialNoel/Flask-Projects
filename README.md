@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 to reinstall the packages (dependencies) in the original environment.
 
-**Step3**: In VS Code, create a new Terminal (Terminal > New Terminal), which creates a terminal and automatically activates the virtual environment by running its activation script.
+**Step3**: In VS Code, create a new Terminal (Terminal > New Terminal), which creates a terminal and automatically activates the virtual environment by running its activation script. Note that in correct set up, the very first words appeared in the terminal should be ```(.venv)```. If you didn't see it, close VSCode and try open the terminal again.
 
 **Step4**: Install Flask in the virtual environment by running the following command in the VS Code Terminal:
 ```
