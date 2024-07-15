@@ -6,7 +6,7 @@ My goal of this project is to learn the basics of Flask, as well as finding out 
 
 You can find the instruction of this project by navigating [the official tutorial published on Jake Rieger's Flask Introduction Github page](https://github.com/jakerieger/FlaskIntroduction)
 
-This project contains the following files and folders under the Flask-Projects repository: .
+This project contains the following files and folders under the Flask-Projects repository: ```.vscode```, ```__pychache__```, ```flask_in_vscode_tutorial```.
 
 ### How to run this project?
 
