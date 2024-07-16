@@ -5,6 +5,3 @@ This repository contains projects I'm working on while learning the Python Flask
 My goal of this project is to learn the basics of Flask, as well as finding out what role will Flask be in Giraffael. All rights to the original contributors of the tutorial: jakerieger and kohlchelsea.
 
 Checkout the awesome instruction and details of this project by navigating [the official tutorial published on Jake Rieger's Flask Introduction Github page](https://github.com/jakerieger/FlaskIntroduction).
-
-### How to run this project?
-
